@@ -8,7 +8,7 @@
 
 *and we learning some easy coding today like:*
 
-*  #  for firet header
+*  #  for first header
 * [] () for add URL web
 * ! {}() for add pics
 
